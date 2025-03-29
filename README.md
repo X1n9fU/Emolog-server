@@ -9,6 +9,9 @@
 ![인천대학교(송도)_감정마스터_Emolog_7](https://github.com/user-attachments/assets/8000fc85-808c-4d35-824e-8475517d3343)
 ![인천대학교(송도)_감정마스터_Emolog_8](https://github.com/user-attachments/assets/eb17732b-7f30-4ba3-bc8f-2291b6bfb8ad)
 
+## Flow Chart
+![Untitled](https://github.com/user-attachments/assets/5c2fc06e-eb51-4521-b70e-91498700832a)
+
 ## UI/UX
 ### 로그인 / 회원가입
 ![image](https://github.com/user-attachments/assets/2d2c44f7-1083-4e16-bd92-df8f82d74825)
