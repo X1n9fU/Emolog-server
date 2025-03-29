@@ -1,4 +1,5 @@
-# Emolog
+# Emolog 🎨🐶
+## 서비스 소개
 ![인천대학교(송도)_감정마스터_Emolog_1](https://github.com/user-attachments/assets/4df2f399-5224-476b-a8e6-941e61033d87)
 ![인천대학교(송도)_감정마스터_Emolog_2](https://github.com/user-attachments/assets/1a065b49-fb33-48f3-9e15-adb91a77fd9b)
 ![인천대학교(송도)_감정마스터_Emolog_3](https://github.com/user-attachments/assets/f54e8d0f-6662-46c4-a395-a8f5e12e5255)
@@ -8,6 +9,23 @@
 ![인천대학교(송도)_감정마스터_Emolog_7](https://github.com/user-attachments/assets/8000fc85-808c-4d35-824e-8475517d3343)
 ![인천대학교(송도)_감정마스터_Emolog_8](https://github.com/user-attachments/assets/eb17732b-7f30-4ba3-bc8f-2291b6bfb8ad)
 
+## UI/UX
+### 로그인 / 회원가입
+![image](https://github.com/user-attachments/assets/2d2c44f7-1083-4e16-bd92-df8f82d74825)
+
+### 주간 캘린더 / 월간 캘린더
+![image](https://github.com/user-attachments/assets/eee0da33-f418-4732-9ef3-9ba59e9de799)
+
+### 일기 작성 -> 일기를 기반으로 AI와 대화 진행
+![image](https://github.com/user-attachments/assets/bbacc711-d68e-41ee-8731-61350b82eda1)
+
+### 감정 선택 -> 오늘의 색 반환 
+* 일기와 대화를 분석하여 감정 수치 반환, 600가지의 감정 중 감정 수치에 해당하는 감정들 나열 -> 결과 페이지에서 오늘의 감정 색깔 확인
+
+![image](https://github.com/user-attachments/assets/b6a51d86-db36-4358-98c6-1570e170ac7f)
+
+### 마이페이지
+![image](https://github.com/user-attachments/assets/e1a1b2e5-9eaa-4573-8978-ef7ccbf30791)
 
 ---
 # 4팀 감정마스터
