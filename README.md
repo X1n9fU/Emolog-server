@@ -1,10 +1,13 @@
-# PROJECT
-  <div align=center>  
+# Emolog
+![인천대학교(송도)_감정마스터_Emolog_1](https://github.com/user-attachments/assets/4df2f399-5224-476b-a8e6-941e61033d87)
+![인천대학교(송도)_감정마스터_Emolog_2](https://github.com/user-attachments/assets/1a065b49-fb33-48f3-9e15-adb91a77fd9b)
+![인천대학교(송도)_감정마스터_Emolog_3](https://github.com/user-attachments/assets/f54e8d0f-6662-46c4-a395-a8f5e12e5255)
+![인천대학교(송도)_감정마스터_Emolog_4](https://github.com/user-attachments/assets/7d6656cb-2b84-45dd-9adc-59c8313ce3a0)
+![인천대학교(송도)_감정마스터_Emolog_5](https://github.com/user-attachments/assets/acde2647-c7d3-409c-8a7c-6c6e1499e177)
+![인천대학교(송도)_감정마스터_Emolog_6](https://github.com/user-attachments/assets/ff120f64-49d1-4102-bd71-34821ee50048)
+![인천대학교(송도)_감정마스터_Emolog_7](https://github.com/user-attachments/assets/8000fc85-808c-4d35-824e-8475517d3343)
+![인천대학교(송도)_감정마스터_Emolog_8](https://github.com/user-attachments/assets/eb17732b-7f30-4ba3-bc8f-2291b6bfb8ad)
 
-  <img src="https://github.com/user-attachments/assets/ace351a5-81bf-4088-b30f-ac4080f8067f">
-  <img src="https://github.com/user-attachments/assets/b35ea3dd-3f06-43aa-81bc-1db222c5184e">
-
-  </div>
 
 ---
 # 4팀 감정마스터
